@@ -225,4 +225,5 @@ __marimo__/
 data
 checkpoints
 .env
+.venv/
 
